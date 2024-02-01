@@ -9,7 +9,7 @@ import React from 'react'
     <div>
      <div className="relative h-[400px] w-[300px] rounded-md">
   <img
-    src="https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHVzZXJ8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60"
+    src="https://images.pexels.com/photos/2450296/pexels-photo-2450296.jpeg?auto=compress&cs=tinysrgb&w=600"
     alt="AirMax Pro"
     className="z-0 h-full w-full rounded-md object-cover"
   />
